@@ -1,4 +1,4 @@
-# Acesso API de Cotacao para Dólar, Euro e Bitcoin com Python
+# Acesso API de Cotação do Dólar, Euro e Bitcoin com Python
 
 Olá, seja muito bem vinda(o)! 
 
