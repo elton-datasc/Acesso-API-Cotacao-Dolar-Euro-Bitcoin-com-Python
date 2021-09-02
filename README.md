@@ -48,33 +48,35 @@ Na página aberta do navegador você conseguirá visualizar as pastas do seu com
 7. Selecione "Notebook: Python 3", o arquivo será criado e aberto
 8. Renomei como desejar selecionando o título padrão "Untitled" gerado no topo da página.
 
-> Criar linhas: Selecione "Insert" no menu e escolha se prefere que ela apareça acima (Above) ou abaixo (Below) da linha que você está editando
-> Deletar linhas: Selecione "Edit" no menu e clique em "Delete Cells"
-> Tipos de linha: Para criar outros tipos de linha selecione "Cell" no menu, "Cell Type" e escolha a que preferir
+###### 💬 Criar linhas: Selecione "Insert" no menu e escolha se prefere que ela apareça acima (Above) ou abaixo (Below) da linha que você está editando
+
+###### 💬 Deletar linhas: Selecione "Edit" no menu e clique em "Delete Cells"
+
+###### 💬 Tipos de linha: Para criar outros tipos de linha selecione "Cell" no menu, "Cell Type" e escolha a que preferir
 
 9. Para abrir a requisição dos dados da API importe a biblioteca "requests" digitando no seu arquivo:  import requests
-    - Ela já vem no Python, mas se não existir na sua máquina, pesquise "Anaconda Prompt" no menu iniciar do Windows e abra
-    - Digite: pip install requests
+    - Essa biblioteca já vem no Python, mas se não existir na sua máquina, pesquise "Anaconda Prompt" no menu iniciar do Windows e abra
+    - Digite no Prompt: pip install requests
     - Aperte o Enter
-10. Importe a biblioteca JSON digitando: import json
-    > É necessário fazer isso, pois as informações vem no formato de dicionário que não é o padrão do Python, e sim JSON comumente usado para troca informações entre sites
-11. Para acessar as informações das cotações, digite: cotacoes = requests.get()
+10. Importe a biblioteca JSON digitando no Jupyter: import json
+    > Isso é necessário, pois as informações vem no formato de dicionário que não é o padrão do Python, e sim JSON comumente usado para troca informações entre sites
+11. Para acessar as informações das cotações, digite no Jupyter: cotacoes = requests.get()
 
 
 ## 🌐 API
 
 1. Para consumir os dados da API pública de cotações de moedas, acesse: https://docs.awesomeapi.com.br/
 2. Selecione "API de Cotações de Moedas"
-3. Copie o link que retorna a última ocorrência das moedas, exemplo: https://economia.awesomeapi.com.br/last/USD-BRL,EUR-BRL,BTC-BRL
+3. No site copie o link que retorna a última ocorrência das moedas, exemplo: https://economia.awesomeapi.com.br/last/USD-BRL,EUR-BRL,BTC-BRL
 
 ## ▶ Realizando as requisições
 
-1. Cole o link dentro do parênteses entre aspas, e deverá ficar assim:
+1. Cole o link dentro do parênteses e entre aspas, deverá ficar assim:
     ```
     cotacoes = requests.get("https://economia.awesomeapi.com.br/last/USD-BRL,EUR-BRL,BTC-BRL")
     ```
     
-2. Para validar e imprimir as informações digite: print(cotacoes)
+2. Para validar e imprimir as informações digite no Jupyter: print(cotacoes)
 
 > Para executar o código selecione "Cell" e clique em "Run Cell", ou use o atalho: Ctrl + Enter
 
@@ -91,6 +93,8 @@ O resultado "200" mostra que a solicitação funcionou:
 ```
 <Response [200]>
 ```
+
+REVISÃO ATÉ AQUI
 
 ## 🔃 JSON para Python
 
