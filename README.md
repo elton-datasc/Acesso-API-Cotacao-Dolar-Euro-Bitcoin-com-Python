@@ -94,7 +94,6 @@ O resultado "200" mostra que a solicitação funcionou:
 <Response [200]>
 ```
 
-REVISÃO ATÉ AQUI
 
 ## 🔃 JSON para Python
 
@@ -152,9 +151,21 @@ O resultado do código acima será:
      Cotações sem formatação: 
      {'USDBRL': {'code': 'USD', 'codein': 'BRL', 'name': 'Dólar Americano/Real Brasileiro', 'high': '5.3239', 'low': '5.263', 'varBid': '0.0162', 'pctChange': '0.31', 'bid': '5.3098', 'ask': '5.3123', 'timestamp': '1629299404', 'create_date': '2021-08-18 12:10:08'}, 'EURBRL': {'code': 'EUR', 'codein': 'BRL', 'name': 'Euro/Real Brasileiro', 'high': '6.2333', 'low': '6.1663', 'varBid': '0.0198', 'pctChange': '0.32', 'bid': '6.2173', 'ask': '6.2218', 'timestamp': '1629299403', 'create_date': '2021-08-18 12:10:05'}, 'BTCBRL': {'code': 'BTC', 'codein': 'BRL', 'name': 'Bitcoin/Real Brasileiro', 'high': '174000', 'low': '163120', 'varBid': '5469.9', 'pctChange': '3.25', 'bid': '173947.2', 'ask': '173947.2', 'timestamp': '1624558019', 'create_date': '2021-06-24 15:07:00'}}
     
-## Dúvidas
+    
+## ✍ Referências
 
-Se precisar de ajuda, conte comigo 😉
+📘 Hashtag Programação - [O que é API (Application Programming Interface) e Como Usar API com Python?](https://youtu.be/eel1OVIdfUw)
+<br>
+Nesse vídeo você verá o que são e como acessar APIs com Python.
+
+📗 Hashtag Treinamentos - [Como Instalar o Pacote Anaconda](https://www.hashtagtreinamentos.com/instalar-pacote-anaconda-jupyter-python)
+<br>
+Passo a passo de como instalar o pacote Anaconda Jupyter para iniciar na programação com Python utilizando essa IDE.
+
+
+## ❓ Dúvidas
+
+Se precisar de ajuda, entre em contato comigo 😉
 
 [<img align="left" alt="Discord" width="100px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/C4PFK4W4HN)
 [<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:anabe.valentim@gmail.com)
@@ -162,6 +173,5 @@ Se precisar de ajuda, conte comigo 😉
 [<img align="left" alt="Beacons" width="80px" src="https://github.com/AnaProgramando/AnaProgramando/blob/31ac40741768033915a37ec0f949984bf6aad2d1/beacons_logo.png"/>](https://beacons.page/anaprogramando)
 <br>
 
-## Licença
 
-Esse projeto está sob licença, para mais informações [acesse aqui](https://github.com/AnaProgramando/AnaProgramando/blob/93f6b5f503603725d4eff887429aafe1d34de118/licenca_pt-br.md).
+<br>[⬆ Voltar ao top](#-acesso-api-de-cota%C3%A7%C3%A3o-do-d%C3%B3lar-euro-e-bitcoin-com-python) <br>
