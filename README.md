@@ -1,15 +1,57 @@
-# ![Icone Python](https://img.icons8.com/nolan/50/python.png) Acesso API de Cotação do Dólar, Euro e Bitcoin com Python
+![banner_Acesso-API-Cotacao](https://github.com/AnaProgramando/Acesso-API-Cotacao-Dolar-Euro-Bitcoin-com-Python/blob/b9516cbb0a85c5afe3e7c5d2bf1dd72ad9feb9d5/banner_Acesso-API-Cotacao-Dolar-Euro-Bitcoin-com-Python.png)
+----
+
+<img src="https://img.shields.io/static/v1?label=Status&message=complete&color=32CD32&style=for-the-badge"/>
+
+<p align="center"> O tutorial desse projeto em vídeo está disponível no canal <a href="https://www.youtube.com/channel/UCafFexaRoRylOKdzGBU6Pgg" > Hashtag Programação </a> </p>
+
+<p align="center">
+ <a href="#-welcome">Welcome</a> |
+ <a href="#-features">Features</a> | 
+ <a href="#-tecnologias-e-ferramentas">Tecnologias e Ferramentas</a> | 
+ <a href="#-sobre">Sobre</a> | 
+ <a href="#-instala%C3%A7%C3%A3o-do-pacote-anaconda-jupyter-para-programar-em-python">Instalação do Pacote Anaconda Jupyter para programar em Python</a> |  
+ <a href="#-abrindo-e-acessando">Abrindo e acessando</a> | 
+ <a href="#-criando-o-arquivo-e-a-pasta-no-jupyter">Criando o arquivo e a pasta no Jupyter</a> |  
+ <a href="#-api">API</a> | 
+ <a href="#-realizando-as-requisi%C3%A7%C3%B5es">Realizando as requisições</a> | 
+ <a href="#-json-para-python">JSON para Python</a> | 
+ <a href="#-visualizar-apenas-uma-cota%C3%A7%C3%A3o">Visualizar apenas uma cotação</a> | 
+ <a href="#-melhorando-o-c%C3%B3digo">Melhorando o código</a> | 
+ <a href="#-d%C3%BAvidas">Dúvidas</a> | 
+ <a href="#-autora">Autora</a>
+</p>
+
+# 🤗 Welcome
 
 Olá, seja muito bem vinda(o)! 
 
-📚 Aproveite o código desse exercício para requisitar (solicitar / acessar) os valores das cotações de forma atualizada usando: https://docs.awesomeapi.com.br/api-de-moedas.
+📚 Aproveite o código desse exercício para acessar os valores das cotações de forma atualizada
 
-👩‍💻 Refaça do seu jeito
+👩‍💻 Refaça o código do seu jeito
 
 😉 Se tiver qualquer dúvida, me contate
 
+## ✅ Features
 
-## 📚 Sobre
+- [X] Introdução de API
+- [X] Instalação do pacote Anaconda Jupyter / Instalar o Jupyter Notebook
+- [X] Como acessar APIs com Python / Usar API com Python
+- [X] Automatização de atividades dentro do código
+- [X] Uso de API de cotações de moedas
+- [X] Cotação do Dólar, Euro e Bitcoin com Python
+- [X] Link de requisição da API
+- [X] Obtenção de informações com API e mais!
+
+## 🔧 Tecnologias e Ferramentas
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Jupyter Notebook](www.anaconda.com)
+- [API pública de cotações de moedas](https://docs.awesomeapi.com.br/)
+
+
+## ![Icone Python](https://img.icons8.com/nolan/50/python.png) Sobre
 
 > 🌐 API: É uma sigla do inglês que significa Application Programming Interface, uma Interface de Programação de Aplicativos. Se trata de um conjunto de padrões que fazem parte de uma interface e que permite a criação de plataformas de maneira mais simples e prática para desenvolvedores. 
 
@@ -150,17 +192,6 @@ O resultado do código acima será:
     
      Cotações sem formatação: 
      {'USDBRL': {'code': 'USD', 'codein': 'BRL', 'name': 'Dólar Americano/Real Brasileiro', 'high': '5.3239', 'low': '5.263', 'varBid': '0.0162', 'pctChange': '0.31', 'bid': '5.3098', 'ask': '5.3123', 'timestamp': '1629299404', 'create_date': '2021-08-18 12:10:08'}, 'EURBRL': {'code': 'EUR', 'codein': 'BRL', 'name': 'Euro/Real Brasileiro', 'high': '6.2333', 'low': '6.1663', 'varBid': '0.0198', 'pctChange': '0.32', 'bid': '6.2173', 'ask': '6.2218', 'timestamp': '1629299403', 'create_date': '2021-08-18 12:10:05'}, 'BTCBRL': {'code': 'BTC', 'codein': 'BRL', 'name': 'Bitcoin/Real Brasileiro', 'high': '174000', 'low': '163120', 'varBid': '5469.9', 'pctChange': '3.25', 'bid': '173947.2', 'ask': '173947.2', 'timestamp': '1624558019', 'create_date': '2021-06-24 15:07:00'}}
-    
-    
-## ✍ Referências
-
-📘 Hashtag Programação - [O que é API (Application Programming Interface) e Como Usar API com Python?](https://youtu.be/eel1OVIdfUw)
-<br>
-Nesse vídeo você verá o que são e como acessar APIs com Python.
-
-📗 Hashtag Treinamentos - [Como Instalar o Pacote Anaconda](https://www.hashtagtreinamentos.com/instalar-pacote-anaconda-jupyter-python)
-<br>
-Passo a passo de como instalar o pacote Anaconda Jupyter para iniciar na programação com Python utilizando essa IDE.
 
 
 ## ❓ Dúvidas
@@ -174,4 +205,22 @@ Se precisar de ajuda, entre em contato comigo 😉
 <br>
 
 
-<br>[⬆ Voltar ao top](#-acesso-api-de-cota%C3%A7%C3%A3o-do-d%C3%B3lar-euro-e-bitcoin-com-python) <br>
+## 🙋‍♀️ Autora
+
+<div>
+  <img align="left" alt="Ana Valentim" width="100px" src="https://avatars.githubusercontent.com/u/31097110?v=4"/>
+</div>
+
+<br>
+✏️ Feito com ❤️ e Python por <a href="https://github.com/AnaProgramando">Ana Valentim</a>.
+
+💙 Se você gostou desse projeto, dê uma ⭐ e compartilhe!
+
+
+<br><br>
+[⬆ Voltar ao top](#-acesso-api-de-cota%C3%A7%C3%A3o-do-d%C3%B3lar-euro-e-bitcoin-com-python) <br>
+
+
+ <div>
+  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/Acesso-API-Cotacao-Dolar-Euro-Bitcoin-com-Python/blob/abbfdaec3da31812a13b47341187832bfc9f1a2f/a.gif"/>
+</div>
