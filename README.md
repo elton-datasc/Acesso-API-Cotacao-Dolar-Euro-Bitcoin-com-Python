@@ -218,7 +218,7 @@ Se precisar de ajuda, entre em contato comigo 😉
 
 
 <br><br>
-[⬆ Voltar ao top](#-acesso-api-de-cota%C3%A7%C3%A3o-do-d%C3%B3lar-euro-e-bitcoin-com-python) <br>
+[⬆ Voltar ao top](https://github.com/AnaProgramando/Acesso-API-Cotacao-Dolar-Euro-Bitcoin-com-Python/blob/main/README.md#) <br>
 
 
  <div>
