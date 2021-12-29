@@ -19,7 +19,7 @@
  <a href="#-visualizar-apenas-uma-cota%C3%A7%C3%A3o">Visualizar apenas uma cotação</a> | 
  <a href="#-melhorando-o-c%C3%B3digo">Melhorando o código</a> | 
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
- <a href="#-autora">Autora</a>
+ <a href="#%EF%B8%8F-autora">Autora</a>
 </p>
 
 # 🤗 Welcome
