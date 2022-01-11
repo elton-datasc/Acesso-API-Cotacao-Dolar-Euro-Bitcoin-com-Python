@@ -26,7 +26,7 @@
 
 Olá, seja muito bem vinda(o)! 
 
-Tive a ideia de compartilhar alguns projetos para quem tem interesse em aprender Python, os exercícios começam bem simples e vão dificultando aos poucos para quem gostaria de iniciar na programação ou precisa melhorar as suas habilidades, também coloquei alguns comentários para facilitar o entendimento.
+Tive a ideia de compartilhar alguns projetos para quem tem interesse em aprender Python, por isso os exercícios começam bem simples e vão dificultando aos poucos para quem gostaria de iniciar na programação ou precisa melhorar as suas habilidades, também coloquei alguns comentários para facilitar o entendimento.
 
 📚 Aproveite o código desse exercício para acessar os valores das cotações de forma atualizada
 
