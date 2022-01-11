@@ -19,6 +19,7 @@
  <a href="#-visualizar-apenas-uma-cota%C3%A7%C3%A3o">Visualizar apenas uma cotação</a> | 
  <a href="#-melhorando-o-c%C3%B3digo">Melhorando o código</a> | 
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
+ <a href="#%EF%B8%8F-contatos">Contatos</a> |  
  <a href="#%EF%B8%8F-autora">Autora</a>
 </p>
 
@@ -197,6 +198,16 @@ O resultado do código acima será:
 
 
 ## ❓ Dúvidas
+
+Qualquer dúvida, interaja aqui:
+  * Faça perguntas
+  * Dê sugestões de melhoria para o projeto
+  * Compartilhe suas ideias
+  * E interaja sobre o assunto
+
+😉Lembre-se de que esta é uma comunidade que construímos juntos 💪.
+
+## ✉️ Contatos
 
 Se precisar de ajuda, entre em contato comigo 😉
 
